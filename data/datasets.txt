@@ -9,3 +9,4 @@ More Data Repos:
 - https://public.tableau.com/app/learn/sample-data?qt-overview_resources=1
 - https://www.kaggle.com/datasets
 - https://huggingface.co/datasets
+- http://insideairbnb.com/get-the-data/
