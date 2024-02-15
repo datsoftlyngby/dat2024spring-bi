@@ -13,3 +13,4 @@ More Data Repos:
 - European Environment Agency Datahub: https://www.eea.europa.eu/en/datahub?size=n_10_n&filters%5B0%5D%5Bfield%5D=issued.date&filters%5B0%5D%5Btype%5D=any&filters%5B0%5D%5Bvalues%5D%5B0%5D=All%20time
 - CDP Cities, States and Regions Open Data Portal: https://data.cdp.net/
 - StatLearning: https://www.statlearning.com/resources-python
+- Video Game Sales with Ratings: https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings/data
