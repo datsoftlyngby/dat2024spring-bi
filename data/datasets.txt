@@ -15,3 +15,4 @@ More Data Repos:
 - CDP Cities, States and Regions Open Data Portal: https://data.cdp.net/
 - StatLearning: https://www.statlearning.com/resources-python
 - Starlink satellites: https://satellitemap.space/?constellation=starlink
+- Our World in Data: https://ourworldindata.org/
