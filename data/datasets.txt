@@ -16,3 +16,4 @@ More Data Repos:
 - StatLearning: https://www.statlearning.com/resources-python
 - Starlink satellites: https://satellitemap.space/?constellation=starlink
 - Our World in Data: https://ourworldindata.org/
+- IEEE DataPort: https://ieee-dataport.org/datasets
