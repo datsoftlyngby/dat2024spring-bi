@@ -18,3 +18,4 @@ More Data Repos:
 - Our World in Data: https://ourworldindata.org/
 - IEEE DataPort: https://ieee-dataport.org/datasets
 - Plotly Datasets"https://github.com/plotly/datasets
+- Freedom House: https://freedomhouse.org 
