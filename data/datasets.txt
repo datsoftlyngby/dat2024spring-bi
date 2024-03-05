@@ -19,3 +19,4 @@ More Data Repos:
 - IEEE DataPort: https://ieee-dataport.org/datasets
 - Plotly Datasets"https://github.com/plotly/datasets
 - Freedom House: https://freedomhouse.org 
+- Danmarks Statistik: https://www.dst.dk/da/Statistik/emner/erhvervsliv/erhvervslivets-struktur
